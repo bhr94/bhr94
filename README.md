@@ -1,5 +1,10 @@
 ### Hi there 👋
-Welcome to my GitHub!
+Welcome to my GitHub! 
+My name is Bahar Mutadayin. I am a Full-Stack Web Developer. 
+
+
+
+
 <!--
 **bhr94/bhr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
