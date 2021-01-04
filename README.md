@@ -6,7 +6,7 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahar-mutadayin-74b598137/)
 
-<!--<p> Welcome to my Github page! I am currently finishing my Web Development Diploma and excited to start job-hunting! Feel free to poke around my repositories and reach out if you'd like! 
+<p> Welcome to my Github page! Feel free to poke around my repositories and reach out if you'd like! 
 
 
 
