@@ -18,13 +18,15 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 
 <h3> Things I am currently working on </h3>
 <ul>
-  <li> Finding my first opportunity in the Dev field </li>
-  <li> Learning more about React through Wes Bos' course </li>
-  <li> Building up my vocabulary and communication skills in English </li>
+  <li> Looking for job opportunities in Web Development </li>
+  <li> Learning Algorithms and Data structures alongside solving LeetCode problems </li>
+  <li> Improving my knowledge on various topics in JavaScript and React </li>
  </ul>
  
  
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"/>
+ <!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"/>
+
+https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
