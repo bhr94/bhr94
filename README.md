@@ -20,11 +20,12 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 <ul>
   <li> Looking for job opportunities in Web Development </li>
   <li> Learning Algorithms and Data structures alongside solving LeetCode problems </li>
-  <li> Improving my knowledge on various topics in JavaScript and React </li>
+  <li> Improving my knowledge in JavaScript and React </li>
  </ul>
  
 
 ![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true")
+[![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true)](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true)
 
 <h3>🛠 &nbsp; Tech Stack</h3>
 
