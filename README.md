@@ -6,7 +6,9 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahar-mutadayin-74b598137/)
 
-<p> Welcome to my Github page! I am currently finishing my Web Development Diploma and excited to start job-hunting! Feel free to poke around my repositories and reach out if you'd like! 
+<!--<p> Welcome to my Github page! I am currently finishing my Web Development Diploma and excited to start job-hunting! Feel free to poke around my repositories and reach out if you'd like! 
+
+
   <br/>
 
 - 🌱 &nbsp; Aspiring Full-Stack Developer
@@ -38,5 +40,5 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 
 <!--
 **bhr94/bhr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- I am very thankful to bibichan for such a great idea of README file idea :) 
 
