@@ -23,9 +23,6 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
   <li> Improving my knowledge on various topics in JavaScript and React </li>
  </ul>
  
- 
- <!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"/>
-
 
 ![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true")
 
