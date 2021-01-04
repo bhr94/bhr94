@@ -8,8 +8,6 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 
 <p> Welcome to my Github page! I am currently finishing my Web Development Diploma and excited to start job-hunting! Feel free to poke around my repositories and reach out if you'd like! 
   <br/>
-<img align="right" src="https://cdn.discordapp.com/attachments/705529523491307574/774845946898153472/bibi.png" width="50%" height="auto" />
-  <!-- Thank you https://www.fiverr.com/audipriatna for the amazing image! -->
 
 - 🌱 &nbsp; Aspiring Full-Stack Developer
 - 📍 &nbsp; Vancouver, Canada
@@ -24,7 +22,6 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
  </ul>
  
 
-![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true")
 [![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true)](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true)
 
 <h3>🛠 &nbsp; Tech Stack</h3>
@@ -32,12 +29,9 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 
