@@ -26,7 +26,9 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
  
  <!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"/>
 
-https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true"
+
+![Bahar's github stats](https://github-readme-stats.vercel.app/api?username=bhr94&theme=cobalt&show_icons=true")
+
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
