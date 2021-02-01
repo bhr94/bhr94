@@ -21,7 +21,8 @@ My name is Bahar Mutadayin. I am a Full-Stack Web Developer.
 <ul>
   <li> Looking for job opportunities in Web Development </li>
   <li> Learning Algorithms and Data structures alongside solving LeetCode problems </li>
-  <li> Improving my knowledge in JavaScript and React </li>
+   <li> Working on a volunteering project (e-commerce application) </li>
+  <li> Learning React Native and more other stuff </li>
  </ul>
  
 
